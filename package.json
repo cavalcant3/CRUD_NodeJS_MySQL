@@ -1,0 +1,25 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cavalcant3/CRUD_NodeJS_MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cavalcant3/CRUD_NodeJS_MySQL/issues"
+  },
+  "homepage": "https://github.com/cavalcant3/CRUD_NodeJS_MySQL#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-status": "^1.5.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
